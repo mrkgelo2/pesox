@@ -1,3 +1,7 @@
+
+<head>
+<link rel="stylesheet" href="../css/footer.css" />
+</head>
 <footer>
       <div class="footer-content">
         <p>&copy; 2024 PesoX Currency Converter.</p>
